@@ -93,6 +93,20 @@ Visit the official online platforms of Pieter Lategan:
 - https://pieterlategannotes.blogspot.com
 - https://pieterlategansketchbook.blogspot.com
 
+<h2>Contact and Official Links</h2>
+<p>For contact, enquiries, artwork information, studio updates, and official project documentation, please use the official Pieter Lategan online platforms listed on this page.</p>
+
+<p><strong>Primary websites:</strong></p>
+<ul>
+  <li><a href="https://www.pieterlategan.com">pieterlategan.com</a></li>
+  <li><a href="https://www.pieterlategan.co.za">pieterlategan.co.za</a></li>
+</ul>
+
+<p><strong>Artist archive:</strong></p>
+<ul>
+  <li><a href="https://pieterlategan.github.io/pieter-lategan-artist-pretoria-south-africa/">Pieter Lategan — Public Artist Identity Archive</a></li>
+</ul>
+<p><strong>Email:</strong> <a href="mailto:YOUR-EMAIL-HERE">YOUR-EMAIL-HERE</a></p>
 ---
 
 ## Short Artist Statement
