@@ -106,7 +106,7 @@ Visit the official online platforms of Pieter Lategan:
 <ul>
   <li><a href="https://pieterlategan.github.io/pieter-lategan-artist-pretoria-south-africa/">Pieter Lategan — Public Artist Identity Archive</a></li>
 </ul>
-<p><strong>Email:</strong> <a href="mailto:YOUR-EMAIL-HERE">YOUR-EMAIL-HERE</a></p>
+<p><strong>Email:</strong> <a href="pieterlateganstudio@gmail.com">YOUR-EMAIL-HERE</a></p>
 ---
 
 ## Short Artist Statement
